@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'FuturaRegular';
+  src: url('@/assets/fonts/FuturaRegular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'FuturaMedium';
+  src: url('@/assets/fonts/FuturaMedium.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'LeagueScriptRegular';
+  src: url('@/assets/fonts/LeagueScriptRegular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
