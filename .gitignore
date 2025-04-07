@@ -28,3 +28,9 @@ coverage
 *.sw?
 
 *.tsbuildinfo
+
+# Zip files
+*.zip
+
+# Build files
+kardwidding
