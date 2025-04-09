@@ -12,7 +12,7 @@
   <p class="uppercase text-xs font-futuraRegular">CEREMONY START:</p>
 
   <div class="relative inline-block">
-    <p class="italic font-light text-2xl leading-none relative z-10 font-leagueScriptRegular">3:30pm</p>
+    <p class="italic font-light text-2xl leading-none relative z-10 font-leagueScriptRegular">3:00pm</p>
     <img
       src="../../assets/images/drawing_time.png"
       alt="Underline"

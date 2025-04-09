@@ -36,6 +36,6 @@ const seats = ref()
     </div> -->
 
     <!-- Note -->
-    <p class="text-xl font-bold uppercase tracking-wide">Kindly respond by April 13, 2025</p>
+    <p class="text-xl font-bold uppercase tracking-wide">Kindly respond by April 27, 2025</p>
   </div>
 </template>

@@ -10,7 +10,7 @@
 
     <!-- Thank You Message -->
     <div class="flex justify-center items-center gap-2 text-xl font-leagueScriptRegular">
-      <p class="font-bold">Thank you & see you</p>
+      <p class="font-bold">Thank you & see you soon!</p>
     </div>
   </div>
 </template>
