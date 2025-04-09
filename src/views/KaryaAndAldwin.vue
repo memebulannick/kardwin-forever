@@ -17,10 +17,10 @@ import FooterKarDwin from '../components/kardwin/FooterKarDwin.vue'
 
     <!-- Spacer to prevent content from being hidden behind fixed nav -->
     <div class="h-[180px]"></div> <!-- adjust this based on Header + Nav height -->
-    <section id="home" class="scroll-mt-[200px]">
+    <section id="home" class="scroll-mt-[220px]">
       <CountdownToWedding />
     </section>
-    <section id="date" class="scroll-mt-[200px]">
+    <section id="date" class="scroll-mt-[180px]">
       <WeddingDate />
     </section>
     <WeddingVenue />

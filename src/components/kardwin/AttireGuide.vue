@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-[#faf7f1] text-center py-10 space-y-10 ">
+  <div class="text-center py-10 space-y-10 ">
 
     <!-- Title -->
     <h2 class="text-3xl font-futuraRegular">ATTIRE GUIDE</h2>
