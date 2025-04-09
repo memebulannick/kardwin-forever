@@ -9,12 +9,16 @@ import WeddingFaqs from '../components/nuptials/WeddingFaqs.vue'
 
 <template>
   <div>
-    <HeaderNuptials />
+    <section id="entourage" class="scroll-mt-[200px]">
+      <HeaderNuptials />
+    </section>
     <WeddingParents />
     <PrincipalSponsors />
     <MaidAndMen />
     <SecondarySponsors />
-    <WeddingFaqs />
+    <section id="faq" class="scroll-mt-[200px]">
+      <WeddingFaqs />
+    </section>
   </div>
 </template>
 

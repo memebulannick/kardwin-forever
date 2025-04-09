@@ -7,7 +7,9 @@ import RsvpFooter from '../components/rsvp/RsvpFooter.vue'
 <template>
   <div>
     <RsvpHeader />
-    <RsvpForm />
+    <section id="rsvp" class="scroll-mt-[200px]">
+      <RsvpForm />
+    </section>
     <RsvpFooter />
   </div>
 </template>
