@@ -11,6 +11,7 @@
 
         <!-- Ladies -->
         <div class="flex flex-col items-center space-y-2 uppercase text-xs">
+          <p class="text-[10px]">MAUVE</p>
           <img src="../../assets/images/heart_brown.png" alt="Ladies Color" class="w-18 h-16" />
           <p class="uppercase">Ladies</p>
           <p class="text-[8px] leading-snug">Long gown<br />(based on color above)</p>
@@ -18,6 +19,7 @@
 
         <!-- Gentlemen -->
         <div class="flex flex-col items-center space-y-2 uppercase text-xs">
+          <p class="text-[10px]">BLACK</p>
           <img src="../../assets/images/heart_black.png" alt="Gentlemen Color" class="w-18 h-16" />
           <p class="uppercase">Gentlemen</p>
           <p class="text-[8px] leading-snug">Black suit</p>
@@ -31,10 +33,22 @@
 
       <!-- Color Hearts -->
       <div class="flex justify-center gap-4">
-        <img src="../../assets/images/heart_gray.png" alt="Guest Color 1" class="w-18 h-16" />
-        <img src="../../assets/images/heart_moss.png" alt="Guest Color 2" class="w-18 h-16" />
-        <img src="../../assets/images/heart_cream.png" alt="Guest Color 3" class="w-18 h-16" />
-        <img src="../../assets/images/heart_light_gray.png" alt="Guest Color 4" class="w-18 h-16" />
+        <div>
+          <p class="text-[10px] pb-2">GREY</p>
+          <img src="../../assets/images/heart_gray.png" alt="Guest Color 1" class="w-18 h-16" />
+        </div>
+        <div>
+          <p class="text-[10px] pb-2">BEIGE</p>
+          <img src="../../assets/images/heart_moss.png" alt="Guest Color 2" class="w-18 h-16" />
+        </div>
+        <div>
+          <p class="text-[10px] pb-2">APRICOT</p>
+          <img src="../../assets/images/heart_cream.png" alt="Guest Color 3" class="w-18 h-16" />
+        </div>
+        <div>
+          <p class="text-[10px] pb-2">GREIGE</p>
+          <img src="../../assets/images/heart_light_gray.png" alt="Guest Color 4" class="w-18 h-16" />
+        </div>
       </div>
 
       <!-- Labels -->
