@@ -11,8 +11,8 @@
 
         <!-- Ladies -->
         <div class="flex flex-col items-center space-y-2 uppercase text-xs">
-          <p class="text-[10px]">MAUVE</p>
-          <img src="../../assets/images/heart_brown.png" alt="Ladies Color" class="w-18 h-16" />
+          <p class="text-[10px]">TAUPE</p>
+          <img src="../../assets/images/heart_taupe.png" alt="Ladies Color" class="w-18 h-16" />
           <p class="uppercase">Ladies</p>
           <p class="text-[8px] leading-snug">Long gown<br />(based on color above)</p>
         </div>
