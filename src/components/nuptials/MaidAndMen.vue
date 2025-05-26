@@ -41,7 +41,7 @@
           <li>NICK SIMBULAN</li>
           <li>EUGENE CABANGON</li>
           <li>KEVIN APLAON</li>
-          <li>HANNAH ARBOLEDA</li>
+          <li>ANGELO MANUEL</li>
           <li>KEN IVERSON MANALO, RND, MD</li>
           <li>AMIEL BARQUEZ</li>
           <li>ACE JAVIER</li>
