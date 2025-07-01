@@ -34,7 +34,7 @@
       </template>
       <template v-else>
         <div class="p-4 text-center text-xl sm:text-4xl font-leagueScriptRegular">
-          Wedding happening right now!
+          Karya and Aldwin has tied the knot!
         </div>
       </template>
     </div>
